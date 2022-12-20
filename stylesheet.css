@@ -201,6 +201,11 @@ header {
   width: 80%;
   font-size: 12px;
   color: #b3aeb5;
+  display: none;
+}
+
+.text-active {
+  display: block;
 }
 
 .faq-wrapper {
